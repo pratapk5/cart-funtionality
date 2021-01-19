@@ -1,0 +1,20 @@
+.header {
+    justify-content: space-between;
+    background-color: #e6e5e5;
+    display: flex;
+    padding: 20px;
+    .btn {
+        margin-left: 20px;
+    }
+      .cart {
+        .badge {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            padding: 5px 10px;
+            border-radius: 50%;
+            background: red;
+            color: white;
+          }
+      }
+}
